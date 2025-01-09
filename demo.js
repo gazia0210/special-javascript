@@ -1,1 +1,2 @@
-console.log(skjhd);
+let userName = "Gazia";
+console.log(userName);
